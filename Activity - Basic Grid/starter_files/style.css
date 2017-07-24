@@ -1,0 +1,47 @@
+/*
+    BACKGROUND COLORS
+
+    mobile  : #bff
+    tablet  : #fcf
+    desktop : #ff9
+
+    BREAKPOINTS
+
+    tablet  : 700px
+    desktop : 1000px
+*/
+
+/*** Default Mobile Styles ****************************/
+body{
+    font-family: Lucida Sans Typewriter, Lucida Console, monaco, monospace;
+    font-size: 0.9em;
+    line-height: 1.4;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+
+
+
+/**** Tablet Styles ***********************************/
+
+
+
+
+
+
+
+
+/**** Desktop Styles ***********************************/
+
+
+
+
+
+
+
+
+
